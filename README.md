@@ -1,8 +1,3 @@
-Certainement ! Je vais améliorer le README en ajoutant plus de détails et en utilisant des icônes de manière plus efficace. Voici une version améliorée :
-
-```markdown project="YouCode Event Management Platform" file="README.md"
-...
-```
 
 ## 🚀 Key Features
 
